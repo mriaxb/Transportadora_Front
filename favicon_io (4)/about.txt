@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Gorditas
+- Font Author: Copyright (c) 2011, Gustavo Dipre (gbrenda1987@gmail.com), with Reserved Font Name "Gorditas".
+- Font Source: http://fonts.gstatic.com/s/gorditas/v20/ll8_K2aTVD26DsPEtQDoDa4AlxYb.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
