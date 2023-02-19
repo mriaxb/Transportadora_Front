@@ -1,7 +1,6 @@
 <template>
-  <div>
-    <div class="cavalo">
-      <table class="table is-black is-bordered">
+  <div class="list">
+      <table class="table is-bordered box mt-6">
         <thead class="is-black">
             <tr style="background:hsl(171deg, 100%, 41%) ">
                 <th>Data</th>
@@ -80,7 +79,6 @@
         </tbody>
       </table>
       
-    </div>  
 
     <div class="columns buttom_cadastrar">
         <div class="column is-2" id="bloco-botao">
@@ -141,6 +139,13 @@ export default class FreteListView extends Vue {
 </script>
 
 <style>
+
+  .list{
+    position: absolute;
+    max-width: 80%;
+    margin-top: 5%;
+    margin-left: 10%;  
+  }
   .cavalo{
     margin-left: 10%;
     display: flex;
